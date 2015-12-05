@@ -9,7 +9,7 @@ For other versions, please check this repository: https://github.com/majksner/ph
 
 # Installation
 1. Copy phalcon.so to `/Applications/mampstack-5.6.16-0/php/lib/php/extensions`
-2. Add extension=phalcon.so to the end of php.ini (`/Applications/mampstack-5.6.16-0/php/etc/php.ini`)
+2. Add `extension=phalcon.so` to the end of php.ini (`/Applications/mampstack-5.6.16-0/php/etc/php.ini`)
 3. Restart MAMP.
 
 # Result
